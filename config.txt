@@ -1,0 +1,66 @@
+ BANNERS  = {
+      "banner_1" => {
+              "name" => "Historia",
+              "bg" => "Graphics/UI/Gacha/Historia",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/sXXGduYu",
+              "descr" =>  "Descripción"
+              },
+      "banner_2" => {
+              "name" => "Camelot",
+              "bg" => "Graphics/UI/Gacha/Camelot",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/gcRbJSax",
+              "descr" =>  "Descripción"
+              },
+      "banner_3" => {
+              "name" => "Fairy Camelot",
+              "bg" => "Graphics/UI/Gacha/FairyCamelot",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/hqukczd0",
+              "descr" =>  "Descripción"
+              },
+      "banner_4" => {
+              "name" => "Memorial",
+              "bg" => "Graphics/UI/Gacha/Memorial",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/kjVfkNZb",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              },
+      "banner_5" => {
+              "name" => "Babylonia",
+              "bg" => "Graphics/UI/Gacha/Babylonia",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/kcB4GgHt",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              },
+      "banner_6" => {
+              "name" => "Templo del Tiempo",
+              "bg" => "Graphics/UI/Gacha/Templo",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/YP2XD3UZ",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              },
+      "banner_7" => {
+              "name" => "CCC",
+              "bg" => "Graphics/UI/Gacha/CCC",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/dvguvuWp",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              },
+      "banner_8" => {
+              "name" => "Traum",
+              "bg" => "Graphics/UI/Gacha/Traum",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/4YY50sR8",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              }
+      }
