@@ -62,5 +62,21 @@
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/4YY50sR8",
               "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
-              }
+              },
+       "banner_9" => {
+              "name" => "Vientos de Avalon",
+              "bg" => "Graphics/UI/Gacha/Avalon",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/dTfvUNAa",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+              },
+       "banner_10" => {
+              "name" => "Furia de Roma",
+              "bg" => "Graphics/UI/Gacha/FuriadeRoma",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/zgg2tKmB",
+              "descr" =>  "Descripción.\nHas tirado \v[35] veces de 300 para conseguir a Bazett."
+                }
       }
