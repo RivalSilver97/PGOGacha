@@ -5,7 +5,7 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/sXXGduYu",
-              "descr" =>  "Descripción"
+              "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
       "banner_2" => {
               "name" => "Camelot",
@@ -13,6 +13,6 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/gcRbJSax",
-              "descr" =>  "Descripción"
+              "descr" =>  "¡Banner con temática de Camelot!\n¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!\n<b>RATE DE PERSONAJES:</b>\nGawain (Saber): 5%\nTristan (Archer): 3%\nLancelot (Saber): 3%\nMordred: 1%\nArtoria (Lancer): 1%."
               }
       }
