@@ -13,6 +13,6 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/gcRbJSax",
-              "descr" =>  "¡Banner con temática de Camelot!\n¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!\n<b>RATE DE PERSONAJES:</b>\nGawain (Saber): 5%\nTristan (Archer): 3%\nLancelot (Saber): 3%\nMordred: 1%\nArtoria (Lancer): 1%."
+              "descr" =>  "<ac>¡Banner con temática de Camelot!</ac>\n<ac>¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!</ac>\n<b><ac>¡¡Este banner durará 3 días!!!</ac></b>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGawain (Saber): 5%\nTristan (Archer): 3%\nLancelot (Saber): 3%\nMordred: 1%\nArtoria (Lancer): 1%."
               }
       }
