@@ -14,6 +14,14 @@
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/hqukczd0",
               "descr" =>  "<ac>¡Banner con temática de Fairy Camelot!</ac>\n<ac>¡Consigue a los Caballeros Hada de la Mesa Redonda por tiempo limitado!</ac>\n<b><ac>¡Durará hasta el 18-02-2025!</ac><br /></b>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGareth (Lancer) 1*: 10%\nBarghest (Saber) 4*: 5%\nBaobhan Sith (Archer) 4*: 3%\nPercival (Lancer) 4*: 3%\nMelusine (Lancer) 5*: 1%\nMorgan (Berserker) 5*: 1%."
-               }
+              },
+      "banner_3" => {
+              "name" => "Memorial",
+              "bg" => "Graphics/UI/Gacha/Memorial",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/kjVfkNZb",
+              "descr" =>  "<ac>¡Banner Memorial!</ac>\n<ac>¡Consigue a Bazett, Oberon y Rasputin por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 20-02-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nOberon (Pretender) 5*: 1%\nKirei (Alter Ego) 5*: 1%\nBazett (Alter Ego) 5*: 1%."
+              }
 
       }
