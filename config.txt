@@ -14,7 +14,7 @@
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/kcB4GgHt",
               "descr" =>  "<ac>¡Banner con temática de Babilonia!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 24-02-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
-              }
+              },
       "banner_3" => {
               "name" => "Templo del Tiempo",
               "bg" => "Graphics/UI/Gacha/Templo",
