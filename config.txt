@@ -8,19 +8,19 @@
               "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
       "banner_2" => {
-              "name" => "Camelot",
-              "bg" => "Graphics/UI/Gacha/Camelot",
+              "name" => "Memorial",
+              "bg" => "Graphics/UI/Gacha/Memorial",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/gcRbJSax",
-              "descr" =>  "<ac>¡Banner con temática de Camelot!</ac>\n<ac>¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!</ac>\n<b><ac>¡Este banner durará hasta el 19-03-2025!</ac></b>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGawain (Saber): 5%\nTristan (Archer): 3%\nLancelot (Saber): 3%\nMordred: 1%\nArtoria (Lancer): 1%."
+              "url" => "https://pastebin.com/raw/kjVfkNZb",
+              "descr" =>  "<ac>¡Banner Memorial!</ac>\n<ac>¡Consigue a Bazett, Oberon y Rasputin por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nOberon (Pretender) 5*: 1%\nKirei (Alter Ego) 5*: 1%\nBazett (Alter Ego) 5*: 1%."
               },
       "banner_3" => {
-              "name" => "Fairy Camelot",
-              "bg" => "Graphics/UI/Gacha/FairyCamelot",
+              "name" => "Babylonia",
+              "bg" => "Graphics/UI/Gacha/Babylonia",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/hqukczd0",
-              "descr" =>  "<ac>¡Banner con temática de Fairy Camelot!</ac>\n<ac>¡Consigue a los Caballeros Hada de la Mesa Redonda por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 19-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGareth (Lancer) 1*: 10%\nBarghest (Saber) 4*: 5%\nBaobhan Sith (Archer) 4*: 3%\nPercival (Lancer) 4*: 3%\nMelusine (Lancer) 5*: 1%\nMorgan (Berserker) 5*: 1%."
+              "url" => "https://pastebin.com/raw/kcB4GgHt",
+              "descr" =>  "<ac>¡Banner con temática de Babilonia!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
               }
       }
