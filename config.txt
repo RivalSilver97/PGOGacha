@@ -16,11 +16,11 @@
               "descr" =>  "<ac>¡Banner Memorial!</ac>\n<ac>¡Consigue a Bazett, Oberon y Rasputin por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nOberon (Pretender) 5*: 1%\nKirei (Alter Ego) 5*: 1%\nBazett (Alter Ego) 5*: 1%."
               },
       "banner_3" => {
-              "name" => "Babylonia",
-              "bg" => "Graphics/UI/Gacha/Babylonia",
+              "name" => "Nahui Mitclan",
+              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan1",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/kcB4GgHt",
-              "descr" =>  "<ac>¡Banner con temática de Babilonia!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
+              "url" => "https://pastebin.com/raw/LYLcjCQE",
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
               }
       }
