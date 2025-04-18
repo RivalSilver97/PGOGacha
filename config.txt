@@ -31,4 +31,4 @@
               "url" => "https://pastebin.com/raw/syHANBGJ",
               "descr" => "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a ORT Xibalba y Kukulcan por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 06-04-2025!</b></ac>\n<ac><b>RATIO DE PERSONAJES:</b></ac>\nSalieri (Avenger): 13%\nEuryale (Archer): 10%\nHeracles (Berserker): 5%\nTiamat (Alter Ego) 5*: 1%.\nDraco (Beast) 5*: 1%."
        }
-      }
+}
