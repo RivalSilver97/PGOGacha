@@ -21,6 +21,14 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/LYLcjCQE",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
+              },
+        "banner_4" => {
+              "name" => "Nahui Mitclan 2",
+              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan2",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/syHANBGJ",
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a ORT Xibalba y Kukulcan por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 06-04-2025!</b></ac>\n<ac><b>RATIO DE PERSONAJES:</b></ac>\nSalieri (Avenger): 13%\nEuryale (Archer): 10%\nHeracles (Berserker): 5%\nTiamat (Alter Ego) 5*: 1%.\nDraco (Beast) 5*: 1%."
               }
       }
