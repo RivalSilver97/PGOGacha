@@ -23,7 +23,7 @@
               "url" => "https://pastebin.com/raw/LYLcjCQE",
               "descr" => "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 26-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
               },
-        "banner_4" => {
+       "banner_4" => {
               "name" => "Nahui Mitclan 2",
               "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan2",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
