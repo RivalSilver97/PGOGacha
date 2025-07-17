@@ -8,19 +8,19 @@
               "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
       "banner_2" => {
-              "name" => "Nahui Mitclan 2",
-              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan2",
+              "name" => "Camelot",
+              "bg" => "Graphics/UI/Gacha/Camelot",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/syHANBGJ",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Kukulcán y a ORT Xibalba por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 02-05-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nOberon (Pretender) 5*: 1%\nKirei (Alter Ego) 5*: 1%\nBazett (Alter Ego) 5*: 1%."
+              "url" => "https://pastebin.com/raw/gcRbJSax",
+              "descr" =>  "<ac>¡Banner con temática de Camelot!</ac>\n<ac>¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!</ac>\n<b><ac>¡Este banner durará hasta el 27-07-2025</ac></b>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGawain (Saber): 5%\nTristan (Archer): 3%\nLancelot (Saber): 3%\nMordred: 1%\nArtoria (Lancer): 1%."
               },
       "banner_3" => {
-              "name" => "Nahui Mitclan 3",
-              "bg" => "Graphics/UI/Gacha/Banners/Presidenta",
+              "name" => "Fairy Camelot",
+              "bg" => "Graphics/UI/Gacha/FairyCamelot",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/4cY7rqC0",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Camazotz y a U-Olga por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 02-05-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5*: 1%\nEreshkigal (Lancer) 5*: 1%\nEnkidu (Lancer) 5*: 1%.\nGilgamesh (Archer) 5*: 1%."
+              "url" => "https://pastebin.com/raw/hqukczd0",
+              "descr" =>  "<ac>¡Banner con temática de Fairy Camelot!</ac>\n<ac>¡Consigue a los Caballeros Hada de la Mesa Redonda por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 27-07-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGareth (Lancer) 1*: 10%\nBarghest (Saber) 4*: 5%\nBaobhan Sith (Archer) 4*: 3%\nPercival (Lancer) 4*: 3%\nMelusine (Lancer) 5*: 1%\nMorgan (Berserker) 5*: 1%."
               }
       }
