@@ -1,7 +1,7 @@
  BANNERS  = {
       "banner_1" => {
               "name" => "Historia",
-              "bg" => "Graphics/UI/Gacha/Banners/Historia",
+              "bg" => "Graphics/UI/Gacha/Historia",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/sXXGduYu",
@@ -9,7 +9,7 @@
               },
       "banner_2" => {
               "name" => "Memorial",
-              "bg" => "Graphics/UI/Gacha/Banners/Memorial",
+              "bg" => "Graphics/UI/Gacha/Memorial",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/kjVfkNZb",
@@ -17,7 +17,7 @@
               },
       "banner_3" => {
               "name" => "Babylonia",
-              "bg" => "Graphics/UI/Gacha/Banners/Babylonia",
+              "bg" => "Graphics/UI/Gacha/Babylonia",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/kcB4GgHt",
