@@ -1,7 +1,7 @@
  BANNERS  = {
       "banner_1" => {
               "name" => "Historia",
-              "bg" => "Graphics/UI/Gacha/Historia",
+              "bg" => "Graphics/UI/Gacha/Banners/Historia",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/sXXGduYu",
