@@ -8,19 +8,19 @@
               "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
       "banner_2" => {
-              "name" => "Templo del Tiempo",
-              "bg" => "Graphics/UI/Gacha/Templo",
+              "name" => "Traum",
+              "bg" => "Graphics/UI/Gacha/Traum",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/YP2XD3UZ",
-              "descr" =>  "<ac>¡Banner con temática de Templo del Tiempo!</ac>\n<ac>¡Consigue a Goetia y a Solomon por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-04-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGoetia (Beast) 5*: 1%\nSolomon (Caster) 5*: 1%."
+              "url" => "https://pastebin.com/raw/4YY50sR8",
+              "descr" =>  "<ac>¡Banner con temática de Traum!</ac>\n<ac>¡Consigue a Moriarty y a Constantino por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 05-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nDon Quijote (Lancer) 4*: 5%.\nSiegfried (Saber) 4*: 3%.\nKriemhild (Berserker) 4*: 3%.\nMoriarty (Ruler) 5*: 1%.\nKriemhild (Berserker) 4*: 3%.\nConstantino (Rider) 5*: 1%."
               },
-      "banner_3" => {
-              "name" => "CCC",
-              "bg" => "Graphics/UI/Gacha/CCC",
+       "banner_3" => {
+              "name" => "Vientos de Avalon",
+              "bg" => "Graphics/UI/Gacha/Avalon",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/dvguvuWp",
-              "descr" =>  "<ac>¡Banner con temática de CCC!</ac>\n<ac>¡Consigue a Meltryllis y a Kazuradrop por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-04-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nPassionlip (Alter Ego) 4*: 6%.\nMeltrylllis (Alter Ego) 5*: 1%.\nKazuradrop (Alter Ego) 5*: 1%."
+              "url" => "https://pastebin.com/raw/dTfvUNAa",
+              "descr" =>  "<ac>¡Banner con temática de Avalon!</ac>\n<ac>¡Consigue a Lady Avalon y Merlín por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5*: 1%.\nMerlin (Caster) 5*: 1%."
               }
       }
