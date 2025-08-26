@@ -1,4 +1,4 @@
- BANNERS  = {
+BANNERS  = {
       "banner_1" => {
               "name" => "Historia",
               "bg" => "Graphics/UI/Gacha/Historia",
