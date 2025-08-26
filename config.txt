@@ -13,7 +13,7 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/1zsfRcUw",
-              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5★: 1%.\nMerlin (Caster) 5★: 1%."
+              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nDraco (Beast) 5★: 1%.\nTiamat (Alter Ego) 5★: 1%."
               },
        "banner_3" => {
               "name" => "Nahui Mitclan",
@@ -21,6 +21,6 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/LYLcjCQE",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5★: 1%.\nMerlin (Caster) 5★: 1%."
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIzcalli (Avenger) 4★: 1%.\nTezcatlipoca (Assassin) 5★: 1%."
               }
       }
