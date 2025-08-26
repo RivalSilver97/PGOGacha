@@ -1,4 +1,4 @@
-BANNERS  = {
+ BANNERS  = {
       "banner_1" => {
               "name" => "Historia",
               "bg" => "Graphics/UI/Gacha/Historia",
@@ -7,20 +7,20 @@ BANNERS  = {
               "url" => "https://pastebin.com/raw/sXXGduYu",
               "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
-      "banner_2" => {
+       "banner_2" => {
               "name" => "Lilim Harlot",
               "bg" => "Graphics/UI/Gacha/Banners/LilimHarlot",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/1zsfRcUw",
-              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 06-04-2025!</b></ac>\n<ac><b>RATIO DE PERSONAJES:</b></ac>\nSalieri (Avenger): 13%\nEuryale (Archer): 10%\nHeracles (Berserker): 5%\nTiamat (Alter Ego) 5*: 1%.\nDraco (Beast) 5*: 1%."
+              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5★: 1%.\nMerlin (Caster) 5★: 1%."
               },
-      "banner_3" => {
-              "name" => "NahuiMitclan",
+       "banner_3" => {
+              "name" => "Nahui Mitclan",
               "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan1",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/LYLcjCQE",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 06-04-2025!</b></ac>"
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5★: 1%.\nMerlin (Caster) 5★: 1%."
               }
       }
