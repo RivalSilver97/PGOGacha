@@ -8,19 +8,21 @@
               "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
               },
        "banner_2" => {
-              "name" => "Lilim Harlot",
-              "bg" => "Graphics/UI/Gacha/Banners/LilimHarlot",
+              "name" => "Nahui Mitclan 2",
+              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan2",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/1zsfRcUw",
-              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nDraco (Beast) 5★: 1%.\nTiamat (Alter Ego) 5★: 1%."
+              "url" => "https://pastebin.com/raw/syHANBGJ",
+              "fecha" => "01/09/2025-08/09/2025",
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a ORT Xibalba y Kukulcan por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nORT Xibalba (Foreigner) 5★: 1%.\nKukulcan (Foreigner) 5★: 1%."
               },
        "banner_3" => {
-              "name" => "Nahui Mitclan",
-              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan1",
+              "name" => "Nahui Mitclan 3",
+              "bg" => "Graphics/UI/Gacha/Banners/Presidenta",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
-              "url" => "https://pastebin.com/raw/LYLcjCQE",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIzcalli (Avenger) 4★: 1%.\nTezcatlipoca (Assassin) 5★: 1%."
+              "url" => "https://pastebin.com/raw/4cY7rqC0",
+              "fecha" => "01/09/2025-08/09/2025",
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Camazotz y a U-Olga por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nCamazotz (Beast) 5★: 1%.\nU-Olga (Beast) 5★: 1%."
               }
       }
