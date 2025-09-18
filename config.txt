@@ -5,24 +5,110 @@
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/sXXGduYu",
-              "descr" =>  "¡Típico Banner de historia que será permanente!\n¡Consigue a Cú Chulainn, EMIYA y Artoria (Saber)!"
+              "descr" =>  "<ac>¡Banner de Historia!</ac>\n<ac>¡Consigue a Artoria (Saber), EMIYA (Archer), Medusa (Rider) y a Cú Chulainn (Lancer)!</ac>\n<ac><b>¡Este banner es PERMANENTE!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nMedusa (Rider) 3★: 5%\nCú Chulainn (Lancer) 3★: 5%\nEMIYA (Archer) 4★: 4%\nArtoria (Saber) 5★: 1%."
               },
-       "banner_2" => {
+      "banner_2" => {
+              "name" => "Camelot",
+              "bg" => "Graphics/UI/Gacha/Camelot",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/gcRbJSax",
+              "descr" =>  "<ac>¡Banner con temática de Camelot!</ac>\n<ac>¡Consigue a los Caballeros de la Mesa Redonda por tiempo limitado!</ac>\n<b><ac>¡Este banner durará hasta el 27-07-2025!</ac></b>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGawain (Saber) 4★: 5%\nTristan (Archer) 4★: 3%\nLancelot (Saber) 4★: 3%\nMordred 5★: 1%\nArtoria (Lancer) 5★: 1%."
+              },
+      "banner_3" => {
+              "name" => "Fairy Camelot",
+              "bg" => "Graphics/UI/Gacha/FairyCamelot",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/hqukczd0",
+              "descr" =>  "<ac>¡Banner con temática de Fairy Camelot!</ac>\n<ac>¡Consigue a los Caballeros Hada de la Mesa Redonda por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 27-07-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGareth (Lancer) 1★: 10%\nBarghest (Saber) 4★: 5%\nBaobhan Sith (Archer) 4★: 3%\nPercival (Lancer) 4★: 3%\nMelusine (Lancer) 5★: 1%\nMorgan (Berserker) 5★: 1%."
+              },
+      "banner_4" => {
+              "name" => "Memorial",
+              "bg" => "Graphics/UI/Gacha/Memorial",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/kjVfkNZb",
+              "descr" =>  "<ac>¡Banner Memorial!</ac>\n<ac>¡Consigue a Bazett, Oberon y Rasputin por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 03-08-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nOberon (Pretender) 5★: 1%\nKirei (Alter Ego) 5★: 1%\nBazett (Alter Ego) 5★: 1%."
+              },
+      "banner_5" => {
+              "name" => "Babylonia",
+              "bg" => "Graphics/UI/Gacha/Babylonia",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/kcB4GgHt",
+              "descr" =>  "<ac>¡Banner con temática de Babilonia!</ac>\n<ac>¡Consigue a Ishtar, Ereshkigal, Enkidu y Gilgamesh por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 03-08-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIshtar (Archer) 5★: 1%\nEreshkigal (Lancer) 5★: 1%\nEnkidu (Lancer) 5★: 1%.\nGilgamesh (Archer) 5★: 1%."
+              },
+      "banner_6" => {
+              "name" => "Templo del Tiempo",
+              "bg" => "Graphics/UI/Gacha/Templo",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/YP2XD3UZ",
+              "descr" =>  "<ac>¡Banner con temática de Templo del Tiempo!</ac>\n<ac>¡Consigue a Goetia y a Solomon por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 27-02-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGoetia (Beast) 5★: 1%\nSolomon (Caster) 5★: 1%."
+              },
+      "banner_7" => {
+              "name" => "CCC",
+              "bg" => "Graphics/UI/Gacha/CCC",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/dvguvuWp",
+              "descr" =>  "<ac>¡Banner con temática de CCC!</ac>\n<ac>¡Consigue a Meltryllis y a Kazuradrop por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 02-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nPassionlip (Alter Ego) 4★: 6%.\nMeltrylllis (Alter Ego) 5★: 1%.\nKazuradrop (Alter Ego) 5★: 1%."
+              },
+      "banner_8" => {
+              "name" => "Traum",
+              "bg" => "Graphics/UI/Gacha/Traum",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/4YY50sR8",
+              "descr" =>  "<ac>¡Banner con temática de Traum!</ac>\n<ac>¡Consigue a Moriarty y a Constantino por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 05-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nDon Quijote (Lancer) 4★: 5%.\nSiegfried (Saber) 4★: 3%.\nKriemhild (Berserker) 4★: 3%.\nMoriarty (Ruler) 5★: 1%.\nKriemhild (Berserker) 4★: 3%.\nConstantino (Rider) 5★: 1%."
+              },
+       "banner_9" => {
+              "name" => "Vientos de Avalon",
+              "bg" => "Graphics/UI/Gacha/Avalon",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/dTfvUNAa",
+              "descr" =>  "<ac>¡Banner con temática de Avalon!</ac>\n<ac>¡Consigue a Lady Avalon y Merlín por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nLady Avalon (Pretender) 5★: 1%.\nMerlin (Caster) 5★: 1%."
+              },
+       "banner_10" => {
+              "name" => "Lilim Harlot",
+              "bg" => "Graphics/UI/Gacha/Banners/LilimHarlot",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/1zsfRcUw",
+              "descr" =>  "<ac>¡Banner con temática de Lilim Harlot!</ac>\n<ac>¡Consigue a Tiamat y Draco por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nTiamat (Alter Ego) 5★: 1%.\nDraco (Beast) 5★: 1%."
+              },
+       "banner_11" => {
+              "name" => "Nahui Mitclan",
+              "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan1",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/LYLcjCQE",
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Izcalli y Tezcatlipoca por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nIzcalli (Avenger) 4★: 1%.\nTezcatlipoca (Assassin) 5★: 1%."
+              },
+       "banner_12" => {
               "name" => "Nahui Mitclan 2",
               "bg" => "Graphics/UI/Gacha/Banners/NahuiMitclan2",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/syHANBGJ",
-              "fecha" => "01/09/2025-08/09/2025",
-              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a ORT Xibalba y Kukulcan por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nORT Xibalba (Foreigner) 5★: 1%.\nKukulcan (Foreigner) 5★: 1%."
+              "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a ORT Xibalba y Kukulcan por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nORT Xibalba (Foreigner) 5★: 1%.\nKukulkan (Foreigner) 5★: 1%."
               },
-       "banner_3" => {
+       "banner_13" => {
               "name" => "Nahui Mitclan 3",
               "bg" => "Graphics/UI/Gacha/Banners/Presidenta",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
               "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/4cY7rqC0",
-              "fecha" => "01/09/2025-08/09/2025",
               "descr" =>  "<ac>¡Banner con temática de Nahui Mitclan!</ac>\n<ac>¡Consigue a Camazotz y a U-Olga por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nCamazotz (Beast) 5★: 1%.\nU-Olga (Beast) 5★: 1%."
+              },
+       "banner_14" => {
+              "name" => "Avalon le Fae",
+              "bg" => "Graphics/UI/Gacha/Banners/Avalon",
+              "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
+              "stars" => [0, 0, 0],
+              "url" => "https://pastebin.com/raw/62fZWj1P",
+              "descr" =>  "<ac>¡Banner con temática de Avalon le Fae!</ac>\n<ac>¡Consigue a Artoria Caster y a Tonelico por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>Gareth (Saber) 1★:  13%\nBedivere (Saber) 3★: 10%\nArtoria Caster (Caster) 5★: 1%.\nTonelico (Caster) 5★: 1%."
               }
       }
