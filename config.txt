@@ -3,7 +3,7 @@
               "name" => "Historia",
               "bg" => "Graphics/UI/Gacha/Historia",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
-              "stars" => [0, 0, 1],
+              "stars" => [0, 0, 0],
               "url" => "https://pastebin.com/raw/sXXGduYu",
               "descr" =>  "<ac>¡Banner de Historia!</ac>\n<ac>¡Consigue a Artoria (Saber), EMIYA (Archer), Medusa (Rider) y a Cú Chulainn (Lancer)!</ac>\n<ac><b>¡Este banner es PERMANENTE!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nMedusa (Rider) 3★: 5%\nCú Chulainn (Lancer) 3★: 5%\nEMIYA (Archer) 4★: 4%\nArtoria (Saber) 5★: 1%."
               },
@@ -107,7 +107,7 @@
               "name" => "Avalon le Fae",
               "bg" => "Graphics/UI/Gacha/Banners/Avalon",
               "rewards" => ["Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio","Graphics/UI/Gacha/vacio"],
-              "stars" => [0, 0, 0],
+              "stars" => [0, 0, 2],
               "url" => "https://pastebin.com/raw/62fZWj1P",
               "descr" =>  "<ac>¡Banner con temática de Avalon le Fae!</ac>\n<ac>¡Consigue a Artoria Caster y a Tonelico por tiempo limitado!</ac>\n<ac><b>¡Este banner durará hasta el 10-03-2025!</b></ac>\n<ac><b>RATE DE PERSONAJES:</b></ac>\nGareth (Saber) 1★: 13%\nBedivere (Saber) 3★: 10%\nArtoria Caster (Caster) 5★: 1%.\nTonelico (Caster) 5★: 1%."
               }
